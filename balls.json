@@ -1062,5 +1062,315 @@
       }
     }
   ]  
+  },
+  {
+    "Manufacturer": "Columbia 300",
+    "Balls": [
+      {
+      "Name": "Power Torq",
+      "Specs": {
+        "Surface": "2000 Grit",
+        "Coverstock": "Solid Reactive",
+        "RG": "2.49",
+        "Diff": "0.054",
+        "Asymmetrical": "False"
+      }
+    },
+    {
+      "Name": "Command Solid",
+      "Specs": {
+        "Surface": "1500 Grit",
+        "Coverstock": "Solid Reactive",
+        "RG": "2.51",
+        "Diff": "0.053",
+        "Asymmetrical": "True"
+      }
+    },
+    {
+      "Name": "The Beast (Hybrid)",
+      "Specs": {
+        "Surface": "500 Grit Polished",
+        "Coverstock": "Hybrid Reactive",
+        "RG": "2.54",
+        "Diff": "0.033",
+        "Asymmetrical": "False"
+      }
+    },
+    {
+      "Name": "Power Torq",
+      "Specs": {
+        "Surface": "2000 Grit",
+        "Coverstock": "Solid Reactive",
+        "RG": "2.49",
+        "Diff": "0.054",
+        "Asymmetrical": "False"
+      }
+    },
+    {
+      "Name": "Dynamic Swing",
+      "Specs": {
+        "Surface": "1500 Grit Polished",
+        "Coverstock": "Pearl Reactive",
+        "RG": "2.48",
+        "Diff": "0.047",
+        "Asymmetrical": "True"
+      }
+    },
+    {
+      "Name": "Command",
+      "Specs": {
+        "Surface": "500 Grit Polished",
+        "Coverstock": "Pearl Reactive",
+        "RG": "2.52",
+        "Diff": "0.053",
+        "Asymmetrical": "True"
+      }
+    },
+    {
+      "Name": "Outlook Solid",
+      "Specs": {
+        "Surface": "2000 Grit",
+        "Coverstock": "Solid Reactive",
+        "RG": "2.54",
+        "Diff": "0.047",
+        "Asymmetrical": "False"
+      }
+    },
+    {
+      "Name": "Power Torq",
+      "Specs": {
+        "Surface": "2000 Grit",
+        "Coverstock": "Solid Reactive",
+        "RG": "2.49",
+        "Diff": "0.054",
+        "Asymmetrical": "False"
+      }
+    },
+    {
+      "Name": "The Beast (Pearl)",
+      "Specs": {
+        "Surface": "500 Grit Polished",
+        "Coverstock": "Pearl Reactive",
+        "RG": "2.54",
+        "Diff": "0.033",
+        "Asymmetrical": "False"
+      }
+    },
+    {
+      "Name": "White Dot",
+      "Specs": {
+        "Surface": "Polished",
+        "Coverstock": "Polyester",
+        "RG": "NaN",
+        "Diff": "NaN",
+        "Asymmetrical": "False"
+      }
+    },
+    {
+      "Name": "Blue Dot",
+      "Specs": {
+        "Surface": "Polished",
+        "Coverstock": "Polyester",
+        "RG": "NaN",
+        "Diff": "NaN",
+        "Asymmetrical": "False"
+      }
+    },
+    {
+      "Name": "Columbia 300 Viz-A-Ball",
+      "Specs": {
+        "Surface": "Polished",
+        "Coverstock": "Polyester",
+        "RG": "NaN",
+        "Diff": "NaN",
+        "Asymmetrical": "False"
+      }
+    }
+    ]
+  },
+  {
+    "Manufacturer": "Hammer",
+    "Balls": [
+      {
+        "Name": "Black Widow Ghost Pearl",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.50",
+          "Diff": "0.058",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Viz-A-Ball",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Infamous",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.56",
+          "Diff": "0.052",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Obsession Tour",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.47",
+          "Diff": "0.034",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Scorpion",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.52",
+          "Diff": "0.043",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Web Pearl",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.48",
+          "Diff": "0.048",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Purple Pearl Urethane",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Pearl Urethane",
+          "RG": "2.65",
+          "Diff": "0.015",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Raw Hammer (Pearl)",
+        "Specs": {
+          "Surface": "2000 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.54",
+          "Diff": "0.038",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Raw Hammer (Hybrid)",
+        "Specs": {
+          "Surface": "2000 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.54",
+          "Diff": "0.038",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Raw Hammer (Solid)",
+        "Specs": {
+          "Surface": "3000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.54",
+          "Diff": "0.038",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Obsession Tour",
+        "Specs": {
+          "Surface": "1000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.47",
+          "Diff": "0.034",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Obsession",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.47",
+          "Diff": "0.050",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Black Widow 2.0",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.50",
+          "Diff": "0.058",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Web M.B.",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.48",
+          "Diff": "0.048",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Web Tour Edition Hybrid",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.47",
+          "Diff": "0.030",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Fugitive",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Redemption Hybrid",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.50",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Redemption Solid",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.50",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      }
+    ]
   }
 ]
