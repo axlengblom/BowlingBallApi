@@ -3,7 +3,7 @@
     "Manufacturer": "Storm",
     "Balls": [
       {
-        "Name":"Trend 2",
+        "Name": "Trend 2",
         "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Hybrid Reactive",
@@ -11,9 +11,9 @@
           "Diff": "0.041",
           "Asymmetrical": "False"
         }
-      }
-      ,{
-        "Name":"Dark Code",
+      },
+      {
+        "Name": "Dark Code",
         "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Pearl Reactive",
@@ -22,7 +22,8 @@
           "Asymmetrical": "False"
         }
       },
-       { "Name":"Parallax Effect",
+      {
+        "Name": "Parallax Effect",
         "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Pearl Reactive",
@@ -32,8 +33,8 @@
         }
       },
       {
-       "Name": "Incite",
-       "Specs": {
+        "Name": "Incite",
+        "Specs": {
           "Surface": "3000 Grit",
           "Coverstock": "Hybrid Reactive",
           "RG": "2.50",
@@ -42,8 +43,8 @@
         }
       },
       {
-       "Name": "Proton Physix",
-       "Specs": {
+        "Name": "Proton Physix",
+        "Specs": {
           "Surface": "2000 Grit",
           "Coverstock": "Solid Reactive",
           "RG": "2.48",
@@ -51,9 +52,9 @@
           "Asymmetrical": "True"
         }
       },
-       {
-          "Name" : "Axiom Pearl",
-          "Specs":{
+      {
+        "Name": "Axiom Pearl",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Pearl Reactive",
           "RG": "2.48",
@@ -62,8 +63,8 @@
         }
       },
       {
-       "Name":"Fast Pitch",
-       "Specs": {
+        "Name": "Fast Pitch",
+        "Specs": {
           "Surface": "1000 Grit",
           "Coverstock": "Solid Urethane",
           "RG": "2.61",
@@ -72,8 +73,8 @@
         }
       },
       {
-       "Name": "Parallax",
-       "Specs": {
+        "Name": "Parallax",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Hybrid Reactive",
           "RG": "2.52",
@@ -82,8 +83,8 @@
         }
       },
       {
-       "Name":"Trend",
-       "Specs": {
+        "Name": "Trend",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Pearl Reactive",
           "RG": "2.52",
@@ -92,8 +93,8 @@
         }
       },
       {
-       "Name":"!Q Tour Nano Pearl",
-       "Specs": {
+        "Name": "!Q Tour Nano Pearl",
+        "Specs": {
           "Surface": "3000 Grit",
           "Coverstock": "Pearl Reactive",
           "RG": "2.49",
@@ -102,8 +103,8 @@
         }
       },
       {
-       "Name":"Omega Crux",
-        "Specs":{
+        "Name": "Omega Crux",
+        "Specs": {
           "Surface": "3000 Grit",
           "Coverstock": "Pearl Reactive",
           "RG": "2.50",
@@ -112,8 +113,8 @@
         }
       },
       {
-       "Name":"Axiom",
-       "Specs" :{
+        "Name": "Axiom",
+        "Specs": {
           "Surface": "3000 Grit",
           "Coverstock": "Solid Reactive",
           "RG": "2.48",
@@ -122,8 +123,8 @@
         }
       },
       {
-       "Name":"Phaze III",
-       "Specs": {
+        "Name": "Phaze III",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Hybrid Reactive",
           "RG": "2.48",
@@ -132,8 +133,8 @@
         }
       },
       {
-       "Name":"Phaze II",
-       "Specs": {
+        "Name": "Phaze II",
+        "Specs": {
           "Surface": "3000 Grit",
           "Coverstock": "Solid Reactive",
           "RG": "2.48",
@@ -142,8 +143,8 @@
         }
       },
       {
-       "Name":"Electrify Solid",
-       "Specs": {
+        "Name": "Electrify Solid",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Solid Reactive",
           "RG": "2.51",
@@ -152,8 +153,8 @@
         }
       },
       {
-       "Name":"Electrify Hybrid Reactive",
-       "Specs": {
+        "Name": "Electrify Hybrid Reactive",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Hybrid Reactive",
           "RG": "2.51",
@@ -162,8 +163,8 @@
         }
       },
       {
-       "Name":"Electrify Pearl",
-       "Specs": {
+        "Name": "Electrify Pearl",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Pearl Reactive",
           "RG": "2.51",
@@ -172,8 +173,8 @@
         }
       },
       {
-       "Name": "Pitch Purple",
-       "Specs": {
+        "Name": "Pitch Purple",
+        "Specs": {
           "Surface": "1000 Grit",
           "Coverstock": "Solid Urethane",
           "RG": "2.57",
@@ -182,8 +183,8 @@
         }
       },
       {
-        "Name":"Pitch Black",
-        "Specs" : {
+        "Name": "Pitch Black",
+        "Specs": {
           "Surface": "1000 Grit",
           "Coverstock": "Solid Urethane",
           "RG": "2.57",
@@ -192,8 +193,8 @@
         }
       },
       {
-       "Name":"Hy-Road",
-       "Specs": {
+        "Name": "Hy-Road",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Hybrid Reactive",
           "RG": "2.57",
@@ -202,8 +203,8 @@
         }
       },
       {
-       "Name":"Tropical Surge",
-       "Specs": {
+        "Name": "Tropical Surge",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Pearl Reactive",
           "RG": "2.58",
@@ -212,8 +213,8 @@
         }
       },
       {
-       "Name":"Hy-Road Pearl",
-       "Specs": {
+        "Name": "Hy-Road Pearl",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Pearl Reactive",
           "RG": "2.57",
@@ -222,8 +223,8 @@
         }
       },
       {
-       "Name": "Mix",
-       "Specs": {
+        "Name": "Mix",
+        "Specs": {
           "Surface": "3500 Grit Polished",
           "Coverstock": "Pearl Urethane",
           "RG": "2.69",
@@ -232,8 +233,8 @@
         }
       },
       {
-       "Name":"!Q Tour Edition",
-       "Specs": {
+        "Name": "!Q Tour Edition",
+        "Specs": {
           "Surface": "4000 Grit",
           "Coverstock": "Solid Reactive",
           "RG": "2.49",
@@ -242,8 +243,8 @@
         }
       },
       {
-       "Name": "Clear Storm Electric Blue",
-       "Specs": {
+        "Name": "Clear Storm Electric Blue",
+        "Specs": {
           "Surface": "3500 Grit Polished",
           "Coverstock": "Polyester",
           "RG": "2.69",
@@ -252,8 +253,8 @@
         }
       },
       {
-       "Name": "Astro Physix",
-       "Specs": {
+        "Name": "Astro Physix",
+        "Specs": {
           "Surface": "1500 Grit Polished",
           "Coverstock": "Pearl Reactive",
           "RG": "2.48",
@@ -262,8 +263,8 @@
         }
       },
       {
-       "Name":"Crux Prime",
-       "Specs": {
+        "Name": "Crux Prime",
+        "Specs": {
           "Surface": "2000 Grit",
           "Coverstock": "Solid Reactive",
           "RG": "2.50",
@@ -272,8 +273,8 @@
         }
       },
       {
-       "Name":"Ice Storm",
-       "Specs": {
+        "Name": "Ice Storm",
+        "Specs": {
           "Surface": "3500 Grit Polished",
           "Coverstock": "Polyester",
           "RG": "2.69",
@@ -286,906 +287,906 @@
   {
     "Manufacturer": "Roto-Grip",
     "Balls": [
-    {
-      "Name":"Idol Helios",
-      "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "False"
+      {
+        "Name": "Idol Helios",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Rubicon UC3",
+        "Specs": {
+          "Surface": "1000 Grit",
+          "Coverstock": "Pearl Urethane",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "RST X-2",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.53",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "UFO Alert",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.52",
+          "Diff": "0.054",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Rubicon UC2",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "RST X-1",
+        "Specs": {
+          "Surface": "3000 Grit",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.53",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Rubicon",
+        "Specs": {
+          "Surface": "3000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Hyped Hybrid",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.52",
+          "Diff": "0.036",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Hyped Pearl",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.52",
+          "Diff": "0.036",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Hustle Camo",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.53",
+          "Diff": "0.030",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Hustle Wine",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.53",
+          "Diff": "0.030",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Hustle PBR",
+        "Specs": {
+          "Surface": "3000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.53",
+          "Diff": "0.030",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Hustle Rap",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.53",
+          "Diff": "0.030",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Squad RG Clear Poly",
+        "Specs": {
+          "Surface": "3500 Grit Polished",
+          "Coverstock": "Polyester",
+          "RG": "2.69",
+          "Diff": "0.006",
+          "Asymmetrical": "False"
+        }
       }
-    },
-    {
-      "Name": "Rubicon UC3",
-      "Specs": {
-        "Surface": "1000 Grit",
-        "Coverstock": "Pearl Urethane",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-      "Name": "RST X-2",
-      "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.53",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "UFO Alert",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.52",
-        "Diff": "0.054",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Rubicon UC2",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "RST X-1",
-     "Specs": {
-        "Surface": "3000 Grit",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.53",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Rubicon",
-     "Specs": {
-        "Surface": "3000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Hyped Hybrid",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.52",
-        "Diff": "0.036",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Hyped Pearl",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.52",
-        "Diff": "0.036",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Hustle Camo",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.53",
-        "Diff": "0.030",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Hustle Wine",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.53",
-        "Diff": "0.030",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Hustle PBR",
-     "Specs": {
-        "Surface": "3000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.53",
-        "Diff": "0.030",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Hustle Rap",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.53",
-        "Diff": "0.030",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Squad RG Clear Poly",
-     "Specs": {
-        "Surface": "3500 Grit Polished",
-        "Coverstock": "Polyester",
-        "RG": "2.69",
-        "Diff": "0.006",
-        "Asymmetrical": "False"
-      }
-    }
-  ]
+    ]
   },
   {
     "Manufacturer": "900 Global",
     "Balls": [
       {
-      "Name":"Altered Reality",
-      "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
+        "Name": "Altered Reality",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Wolverine",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.54",
+          "Diff": "0.053",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Reality",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Zen Master",
+        "Specs": {
+          "Surface": "3000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.051",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Zen",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.49",
+          "Diff": "0.051",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Honey Badger Intensity",
+        "Specs": {
+          "Surface": "4000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.54",
+          "Diff": "0.048",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Honey Badger Revival",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.54",
+          "Diff": "0.048",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Burner Pearl",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.53",
+          "Diff": "0.037",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Burner Solid",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.53",
+          "Diff": "0.037",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Honey Badger Yellow Poly",
+        "Specs": {
+          "Surface": "3500 Grit Polished",
+          "Coverstock": "Polyester",
+          "RG": "2.68",
+          "Diff": "0.006",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "900 Global Clear Coat Poly",
+        "Specs": {
+          "Surface": "3500 Grit Polished",
+          "Coverstock": "Polyester",
+          "RG": "2.68",
+          "Diff": "0.006",
+          "Asymmetrical": "False"
+        }
       }
-    },
-    {
-     "Name": "Wolverine",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.54",
-        "Diff": "0.053",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Reality",
-     "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Zen Master",
-     "Specs": {
-        "Surface": "3000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.051",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Zen",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.49",
-        "Diff": "0.051",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Honey Badger Intensity",
-     "Specs": {
-        "Surface": "4000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.54",
-        "Diff": "0.048",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Honey Badger Revival",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.54",
-        "Diff": "0.048",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Burner Pearl",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.53",
-        "Diff": "0.037",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Burner Solid",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.53",
-        "Diff": "0.037",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Honey Badger Yellow Poly",
-     "Specs": {
-        "Surface": "3500 Grit Polished",
-        "Coverstock": "Polyester",
-        "RG": "2.68",
-        "Diff": "0.006",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "900 Global Clear Coat Poly",
-     "Specs": {
-        "Surface": "3500 Grit Polished",
-        "Coverstock": "Polyester",
-        "RG": "2.68",
-        "Diff": "0.006",
-        "Asymmetrical": "False"
-      }
-    }
-  ]  
+    ]
   },
   {
     "Manufacturer": "Motiv",
     "Balls": [
       {
-      "Name": "Jackal Legacy",
-      "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.47",
-        "Diff": "0.054",
-        "Asymmetrical": "True"
+        "Name": "Jackal Legacy",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.47",
+          "Diff": "0.054",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Jackal Ghost",
+        "Specs": {
+          "Surface": "3000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.47",
+          "Diff": "0.054",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Forge Flare",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.47",
+          "Diff": "0.055",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Triden Horizon",
+        "Specs": {
+          "Surface": "4000 Grit",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.52",
+          "Diff": "0.049",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Iron Forge",
+        "Specs": {
+          "Surface": "5000 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.47",
+          "Diff": "0.055",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Pride",
+        "Specs": {
+          "Surface": "4000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.50",
+          "Diff": "0.042",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Ripcord Velocity",
+        "Specs": {
+          "Surface": "5500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.53",
+          "Diff": "0.047",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Venom Shock",
+        "Specs": {
+          "Surface": "4000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.48",
+          "Diff": "0.034",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Venom Recoil",
+        "Specs": {
+          "Surface": "4000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.47",
+          "Diff": "0.036",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Fatal Venom",
+        "Specs": {
+          "Surface": "5500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.48",
+          "Diff": "0.034",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Supra Enzo",
+        "Specs": {
+          "Surface": "5500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.57",
+          "Diff": "0.050",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Purple Tank",
+        "Specs": {
+          "Surface": "1000 Grit",
+          "Coverstock": "Solid Urethane",
+          "RG": "2.57",
+          "Diff": "0.015",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Top Thril",
+        "Specs": {
+          "Surface": "5500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.59",
+          "Diff": "0.023",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Allegiant Sniper",
+        "Specs": {
+          "Surface": "5500 Grit Polished",
+          "Coverstock": "Polythane",
+          "RG": "2.68",
+          "Diff": "0.010",
+          "Asymmetrical": "False"
+        }
       }
-    },
-    {
-     "Name": "Jackal Ghost",
-     "Specs": {
-        "Surface": "3000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.47",
-        "Diff": "0.054",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Forge Flare",
-     "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.47",
-        "Diff": "0.055",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Triden Horizon",
-     "Specs": {
-        "Surface": "4000 Grit",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.52",
-        "Diff": "0.049",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Iron Forge",
-     "Specs": {
-        "Surface": "5000 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.47",
-        "Diff": "0.055",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Pride",
-     "Specs": {
-        "Surface": "4000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.50",
-        "Diff": "0.042",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Ripcord Velocity",
-     "Specs": {
-        "Surface": "5500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.53",
-        "Diff": "0.047",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Venom Shock",
-     "Specs": {
-        "Surface": "4000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.48",
-        "Diff": "0.034",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Venom Recoil",
-     "Specs": {
-        "Surface": "4000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.47",
-        "Diff": "0.036",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Fatal Venom",
-     "Specs": {
-        "Surface": "5500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.48",
-        "Diff": "0.034",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Supra Enzo",
-     "Specs": {
-        "Surface": "5500 Grit Polished",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.57",
-        "Diff": "0.050",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Purple Tank",
-     "Specs": {
-        "Surface": "1000 Grit",
-        "Coverstock": "Solid Urethane",
-        "RG": "2.57",
-        "Diff": "0.015",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Top Thril",
-     "Specs": {
-        "Surface": "5500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.59",
-        "Diff": "0.023",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Allegiant Sniper",
-     "Specs": {
-        "Surface": "5500 Grit Polished",
-        "Coverstock": "Polythane",
-        "RG": "2.68",
-        "Diff": "0.010",
-        "Asymmetrical": "False"
-      }
-    }
-  ]
+    ]
   },
   {
     "Manufacturer": "Brunswick",
     "Balls": [
       {
-      "Name":  "Quantum Evo Pearl",
-      "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.51",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
+        "Name": "Quantum Evo Pearl",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.51",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Quantum Evo Solid",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.50",
+          "Diff": "0.048",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Stellar",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.54",
+          "Diff": "0.052",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Crown Jewel",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Zenith Hybrid",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Melee Jab",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.49",
+          "Diff": "0.050",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Rhino",
+        "Specs": {
+          "Surface": "500 Grit Polished",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.52",
+          "Diff": "0.030",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Twist",
+        "Specs": {
+          "Surface": "500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.59",
+          "Diff": "0.018",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "TZone",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Zenith Pearl",
+        "Specs": {
+          "Surface": "500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Knock Out",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.050",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Zenith",
+        "Specs": {
+          "Surface": "1000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "U-Motion",
+        "Specs": {
+          "Surface": "1000 Grit",
+          "Coverstock": "Solid Urethane",
+          "RG": "2.60",
+          "Diff": "0.020",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Viz-A-Ball",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
       }
-    },
-    {
-     "Name": "Quantum Evo Solid",
-     "Specs": {
-        "Surface": "1500 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.50",
-        "Diff": "0.048",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Stellar",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.54",
-        "Diff": "0.052",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Crown Jewel",
-     "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Zenith Hybrid",
-     "Specs": {
-        "Surface": "1500 Grit",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Melee Jab",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.49",
-        "Diff": "0.050",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Rhino",
-     "Specs": {
-        "Surface": "500 Grit Polished",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.52",
-        "Diff": "0.030",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Twist",
-     "Specs": {
-        "Surface": "500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.59",
-        "Diff": "0.018",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "TZone",
-     "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Zenith Pearl",
-     "Specs": {
-        "Surface": "500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Knock Out",
-     "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.050",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Zenith",
-     "Specs": {
-        "Surface": "1000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "U-Motion",
-     "Specs": {
-        "Surface": "1000 Grit",
-        "Coverstock": "Solid Urethane",
-        "RG": "2.60",
-        "Diff": "0.020",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Viz-A-Ball",
-     "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    }
-  ]
+    ]
   },
   {
     "Manufacturer": "Radical",
-    "Balls" : [
+    "Balls": [
       {
-      "Name": "Trail Blazer",
-      "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.48",
-        "Diff": "0.052",
-        "Asymmetrical": "True"
+        "Name": "Trail Blazer",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.48",
+          "Diff": "0.052",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Payback",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.53",
+          "Diff": "0.041",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Informer",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.48",
+          "Diff": "0.051",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Intel Pearl Special Edition",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.48",
+          "Diff": "0.035",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Maximum Results",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.050",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "The Spy",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Polyester",
+          "RG": "2.51",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Incognito Pearl",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.49",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Results Plus",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.52",
+          "Diff": "0.044",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Bonus Pearl",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.49",
+          "Diff": "0.030",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Incognito",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Bonus",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.030",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Astro-Nuts",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Counter Attack Pearl",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.58",
+          "Diff": "0.023",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Counter Attack Solid",
+        "Specs": {
+          "Surface": "3000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.58",
+          "Diff": "0.023",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Radical Spare Ball",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
       }
-    },
-    {
-     "Name": "Payback",
-     "Specs": {
-        "Surface": "1500 Grit",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.53",
-        "Diff": "0.041",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Informer",
-     "Specs": {
-        "Surface": "1500 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.48",
-        "Diff": "0.051",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Intel Pearl Special Edition",
-     "Specs": {
-        "Surface": "1000 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.48",
-        "Diff": "0.035",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Maximum Results",
-     "Specs": {
-        "Surface": "1500 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.050",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "The Spy",
-     "Specs": {
-        "Surface": "1000 Grit Polished",
-        "Coverstock": "Polyester",
-        "RG": "2.51",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Incognito Pearl",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.49",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Results Plus",
-     "Specs": {
-        "Surface": "1000 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.52",
-        "Diff": "0.044",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Bonus Pearl",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.49",
-        "Diff": "0.030",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Incognito",
-     "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Bonus",
-     "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.030",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Astro-Nuts",
-     "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Counter Attack Pearl",
-     "Specs": {
-        "Surface": "1000 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.58",
-        "Diff": "0.023",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Counter Attack Solid",
-     "Specs": {
-        "Surface": "3000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.58",
-        "Diff": "0.023",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Radical Spare Ball",
-     "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    }
-  ]
+    ]
   },
   {
     "Manufacturer": "DV8",
     "Balls": [
       {
-      "Name": "Medusa",
-      "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.51",
-        "Diff": "0.048",
-        "Asymmetrical": "True"
+        "Name": "Medusa",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.51",
+          "Diff": "0.048",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Hell Raiser Blaze",
+        "Specs": {
+          "Surface": "1000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.54",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Activ8",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.51",
+          "Diff": "0.040",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Hell Raiser Return",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.54",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Damn Good Verge",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.47",
+          "Diff": "0.037",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Intimidator Pearl",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.48",
+          "Diff": "0.051",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Spare",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
       }
-    },
-    {
-     "Name": "Hell Raiser Blaze",
-     "Specs": {
-        "Surface": "1000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.54",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Activ8",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.51",
-        "Diff": "0.040",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Hell Raiser Return",
-     "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.54",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Damn Good Verge",
-     "Specs": {
-        "Surface": "1500 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.47",
-        "Diff": "0.037",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-     "Name": "Intimidator Pearl",
-     "Specs": {
-        "Surface": "1000 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.48",
-        "Diff": "0.051",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-     "Name": "Spare",
-     "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    }
-  ]  
+    ]
   },
   {
     "Manufacturer": "Columbia 300",
     "Balls": [
       {
-      "Name": "Power Torq",
-      "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.054",
-        "Asymmetrical": "False"
+        "Name": "Power Torq",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.054",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Command Solid",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.51",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "The Beast (Hybrid)",
+        "Specs": {
+          "Surface": "500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.54",
+          "Diff": "0.033",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Power Torq",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.054",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Dynamic Swing",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.48",
+          "Diff": "0.047",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Command",
+        "Specs": {
+          "Surface": "500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.52",
+          "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Outlook Solid",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.54",
+          "Diff": "0.047",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Power Torq",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.49",
+          "Diff": "0.054",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "The Beast (Pearl)",
+        "Specs": {
+          "Surface": "500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.54",
+          "Diff": "0.033",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "White Dot",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Blue Dot",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Columbia 300 Viz-A-Ball",
+        "Specs": {
+          "Surface": "Polished",
+          "Coverstock": "Polyester",
+          "RG": "NaN",
+          "Diff": "NaN",
+          "Asymmetrical": "False"
+        }
       }
-    },
-    {
-      "Name": "Command Solid",
-      "Specs": {
-        "Surface": "1500 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.51",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-      "Name": "The Beast (Hybrid)",
-      "Specs": {
-        "Surface": "500 Grit Polished",
-        "Coverstock": "Hybrid Reactive",
-        "RG": "2.54",
-        "Diff": "0.033",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-      "Name": "Power Torq",
-      "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.054",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-      "Name": "Dynamic Swing",
-      "Specs": {
-        "Surface": "1500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.48",
-        "Diff": "0.047",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-      "Name": "Command",
-      "Specs": {
-        "Surface": "500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.52",
-        "Diff": "0.053",
-        "Asymmetrical": "True"
-      }
-    },
-    {
-      "Name": "Outlook Solid",
-      "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.54",
-        "Diff": "0.047",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-      "Name": "Power Torq",
-      "Specs": {
-        "Surface": "2000 Grit",
-        "Coverstock": "Solid Reactive",
-        "RG": "2.49",
-        "Diff": "0.054",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-      "Name": "The Beast (Pearl)",
-      "Specs": {
-        "Surface": "500 Grit Polished",
-        "Coverstock": "Pearl Reactive",
-        "RG": "2.54",
-        "Diff": "0.033",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-      "Name": "White Dot",
-      "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-      "Name": "Blue Dot",
-      "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    },
-    {
-      "Name": "Columbia 300 Viz-A-Ball",
-      "Specs": {
-        "Surface": "Polished",
-        "Coverstock": "Polyester",
-        "RG": "NaN",
-        "Diff": "NaN",
-        "Asymmetrical": "False"
-      }
-    }
     ]
   },
   {
@@ -1368,6 +1369,156 @@
           "Coverstock": "Solid Reactive",
           "RG": "2.50",
           "Diff": "0.053",
+          "Asymmetrical": "True"
+        }
+      }
+    ]
+  },
+  {
+    "Manufacturer": "Ebonite",
+    "Balls": [
+      {
+        "Name": "Polaris",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.48",
+          "Diff": "0.048",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Aero Dynamix",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.50",
+          "Diff": "0.050",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Omni Hybrid",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.50",
+          "Diff": "0.050",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Game Breaker ASYM",
+        "Specs": {
+          "Surface": "2000 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.47",
+          "Diff": "0.054",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Game Breaker 4",
+        "Specs": {
+          "Surface": "1500 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.48",
+          "Diff": "0.048",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Allure Solid",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.48",
+          "Diff": "0.049",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Puma",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.53",
+          "Diff": "0.036",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Stinger Pearl",
+        "Specs": {
+          "Surface": "500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.52",
+          "Diff": "0.035",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Stinger Hybrid",
+        "Specs": {
+          "Surface": "1000 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.52",
+          "Diff": "0.035",
+          "Asymmetrical": "False"
+        }
+      }
+    ]
+  },
+  {
+    "Manufacturer": "Track",
+    "Balls": [
+      {
+        "Name": "Strata Hybrid",
+        "Specs": {
+          "Surface": "500 Grit Polished",
+          "Coverstock": "Hybrid Reactive",
+          "RG": "2.48",
+          "Diff": "0.050",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Strata",
+        "Specs": {
+          "Surface": "1000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.48",
+          "Diff": "0.050",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Legion Pearl",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.50",
+          "Diff": "0.046",
+          "Asymmetrical": "True"
+        }
+      },
+      {
+        "Name": "Heat",
+        "Specs": {
+          "Surface": "2000 Grit",
+          "Coverstock": "Solid Reactive",
+          "RG": "2.50",
+          "Diff": "0.038",
+          "Asymmetrical": "False"
+        }
+      },
+      {
+        "Name": "Kinetic Platinum",
+        "Specs": {
+          "Surface": "1500 Grit Polished",
+          "Coverstock": "Pearl Reactive",
+          "RG": "2.48",
+          "Diff": "0.040",
           "Asymmetrical": "True"
         }
       }
